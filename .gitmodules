@@ -1,0 +1,3 @@
+[submodule "config/custom_components/oig_cloud"]
+	path = config/custom_components/oig_cloud
+	url = git@github.com:psimsa/oig_cloud.git
